@@ -1,5 +1,6 @@
 {
   "name": "textutils",
+  "homepage":"https://textutil-5ucjhwcrv-lordkazamas-projects.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,6 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
- 
+  }
 }
