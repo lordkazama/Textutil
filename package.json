@@ -38,4 +38,7 @@
       "last 1 safari version"
     ]
   }
+  {
+    "NODE_OPTIONS":"--openssl-legacy-provider"
+}
 }
