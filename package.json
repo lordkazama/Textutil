@@ -1,6 +1,6 @@
 {
-  "name": "textutils",
-  "homepage":"https://textutil-5ucjhwcrv-lordkazamas-projects.vercel.app/",
+  "name": "portfolio",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,8 +14,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    
+    "dev":"vite"
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
